@@ -35,3 +35,15 @@ segurança e instruções através de áudio. Este aplicativo não apenas melhor
 eficiência e a comunicação interna na empresa "Doma", mas também demonstra a
 aplicação prática de tecnologias wearables para criar soluções acessíveis e inclusivas
 no local de trabalho.
+
+## Recursos
+
+- Verificação de disponibilidade de alto-falante integrado
+- Verificação de conexão de fone de ouvido Bluetooth
+- Interface de usuário intuitiva e amigável
+- Integração com configurações de Bluetooth 
+- Funcionalidade de reprodução de áudio 
+
+- ## Descrição
+
+Este aplicativo permite aos usuários verificar se um alto-falante integrado ou um fone de ouvido Bluetooth está disponível e conectado ao dispositivo. Ele fornece uma interface simples com botões para verificar a disponibilidade de saída de áudio, abrir as configurações de Bluetooth e reproduzir áudio
