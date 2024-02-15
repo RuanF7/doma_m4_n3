@@ -72,7 +72,7 @@ class _AudioOutputWidgetState extends State<AudioOutputWidget> {
           ),
           ElevatedButton(
             onPressed: () {
-              // Adicione a lógica para reprodução de áudio aqui
+              
             },
             child: Text('Play Audio'),
           ),
@@ -95,7 +95,7 @@ class _AudioOutputWidgetState extends State<AudioOutputWidget> {
 
 class AudioHelper {
   bool audioOutputAvailable(int type) {
-    // Implemente a lógica para verificar a disponibilidade da saída de áudio aqui
+    
     return true;
   }
 }
